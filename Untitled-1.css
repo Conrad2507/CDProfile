@@ -24,6 +24,10 @@ aside {
 
 }
 
+.menu li:hover {
+  color: lightred;
+    
+}
 
 
 .menu li {
