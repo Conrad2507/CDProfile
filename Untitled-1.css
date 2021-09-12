@@ -26,7 +26,7 @@ aside {
 
 
 
-.menu {
+.menu:hover {
   backcolor: rgb(245, 143, 143);
     
 }
