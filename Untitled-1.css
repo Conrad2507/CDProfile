@@ -147,26 +147,34 @@ label {
 
 }
 
+#yea:hover {
+   background-color: transparent;
+   color: transparent;
+
+}
+
 #yea {
-    width: 150px;
+    width: 250px;
     height: 150px;
     margin-top: 10px;
     font-size: 20px;
     background-color: rgb(21, 235, 68);
-    margin-left: 44%;
+    margin-left: 40%;
     position: absolute;
+    cursor: pointer;
+   
 }
 
-#yea:hover {
-     display: none;
-}
 
 #nay {
-    width: 150px;
+    width: 250px;
     height: 150px;
     margin-top: 10px;
     font-size: 20px;
     background-color: rgb(235, 66, 66);
-    margin-left: 44%;
+    margin-left: 40%;
+    cursor: pointer;
 
 }
+
+
