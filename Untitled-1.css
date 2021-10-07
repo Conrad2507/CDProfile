@@ -156,7 +156,7 @@ border-radius: 15px;
 
 
 
-#knw {
+.knw {
     text-align: center;
     font-weight: bold;
 }
@@ -385,7 +385,7 @@ padding: 25px 50px;
     .con {
         font-size: 40px;
     }
-	#knw {
+	.knw {
         font-size: 50px;
 
     }
