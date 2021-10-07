@@ -381,9 +381,13 @@ padding: 25px 50px;
 
 }
 
-@media (min-width: 320px) {
+@media (min-width: 300px) {
     .con {
         font-size: 40px;
+    }
+	#knw {
+        font-size: 50px;
+
     }
     
 }
